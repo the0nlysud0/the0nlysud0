@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @the0nlysud0
 - 👀 I’m interested in App Developpment
-- 🌱 I’m currently learning C++ , WebDev .
-- 💞️ I’m looking to collaborate on a Web Browser Project
+- 🌱 I’m currently learning C++ and CP
+- 💞️ I’m working on a Code Editor with opengl and glfw
 - 📫 How to reach me sumboii.mehdi@gmail.com
 - 😄 Pronouns: Lich/he/her
 - ⚡ Fun fact: Im Straight ✨___✨
